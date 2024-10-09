@@ -4,18 +4,20 @@
     "url": "https://www.mrdigital.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.mrdigital.net.ico",
     "slug": "mr-digital-s-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 215,
-    "timeWeek": 181,
-    "timeMonth": 174,
-    "timeYear": 180,
-    "dailyMinutesDown": {}
+    "time": 179,
+    "timeDay": 176,
+    "timeWeek": 175,
+    "timeMonth": 173,
+    "timeYear": 179,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "Wikipedia",
