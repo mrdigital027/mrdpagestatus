@@ -4,19 +4,19 @@
     "url": "https://www.mrdigital.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.mrdigital.net.ico",
     "slug": "mr-digital-s-home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 179,
-    "timeDay": 176,
-    "timeWeek": 175,
+    "timeDay": 171,
+    "timeWeek": 174,
     "timeMonth": 173,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 23
     }
   },
   {
